@@ -42,7 +42,7 @@ Follow these steps to set up the script:
    - You can find these IDs in the URL of the corresponding Google Docs and Drive folder.
 3. **Replace the Manifest File**  
    - In the Apps Script editor, go to `Project Settings` and enable **"Show 'appsscript.json' manifest file."**  
-   - Then replace your existing `appsscript.json` with the one provided in this repository for proper OAuth scopes and advanced service configuration.
+   - Then replace your existing `appsscript.json` with [`appsscript.json`](appsscript.json) for proper OAuth scopes and advanced service configuration.
 4. **Set up triggers**  
    In the Apps Script editor:
    - Click on `Triggers` (the clock icon)
